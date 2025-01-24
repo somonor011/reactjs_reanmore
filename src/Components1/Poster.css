@@ -1,0 +1,27 @@
+article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    background-color: rgb(233,233,233);
+    border-right: 20px;
+    padding: 30px 20px;
+    box-shadow: 0 0 10px rgb(221,221,221);
+}
+
+img{
+    width: 150px;
+    border-radius: 50%;
+}
+
+h2{
+    font-size: 2rem;
+    margin: 20px 0;
+    color: rgb(95,95,95);
+}
+
+p{
+    font-size: 1.5rem;
+    color: rgb(62,62,62);
+    margin: 0;
+}
