@@ -1,14 +1,12 @@
-import Greeting from "./components/Greeting.jsx";
-import Job from "./components/Job.jsx";
-import Message from "./components/Message.jsx";
-import "./App.css";
+
+// import "./App.css";
+
+import Profile from "./Components/Profile.jsx";
 
 const App = () => {
-    return <div className="container">
-        <Greeting/>
-        <Job/>
-        <Message/>
-    </div>;
+    return <>
+        <Profile/>
+    </>;
 }
 
 // function Greeting (){
